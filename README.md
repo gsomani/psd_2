@@ -1,2 +1,1 @@
-# Processor System Design
-Assignment 2 for Processor System Design Course
+# Processor System Design (Pipelined RISCV processor)
